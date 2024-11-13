@@ -36,3 +36,8 @@ As compared to the full repo:
 16M     project2
 2.1M    project3
 ```
+
+### Sources
+
+This was based off [this answer](https://stackoverflow.com/a/52269934) on Stack Overflow. Further reading 
+is contained within.
