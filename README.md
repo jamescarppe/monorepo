@@ -1,10 +1,10 @@
 ## Monorepo Test
 
-This monorepo contains 3 "projects". Each project has files of different sizes in them:
+This monorepo contains 3 "projects". Each project has .dat files containing random data of different sizes:
 
-* `project1` contains a 10MB file
-* `project2` contains a 15MB file
-* `project3` contains a 5MB file
+* `project1` contains a 10MB .dat file
+* `project2` contains a 15MB .dat file
+* `project3` contains a 2MB .dat file
 
 ### Checking out only one project
 
